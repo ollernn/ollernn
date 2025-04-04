@@ -1,4 +1,5 @@
-## Hi there 👋
+## 🌱 I’m currently learning C#
+## 💬 I am currently studying for a Bachelor's degree in IT Engineering with a focus on Digital Infrastructure and Cybersecurity.
 
 <!--
 **ollernn/ollernn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
